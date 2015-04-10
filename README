@@ -1,0 +1,14 @@
+# bramka
+
+pierwsza wersja działająca programu
+*nie ma unit testów
+*wprowadzone dane nie są sprawdzane
+
+-program tworzy obiekty bramka i człowiek
+-ładuje portfel człowieka (kolejny obiekt)
+  **nominały nie są jeszcze losowane, na stałe jest wstawiona wartość 2
+  -obiekt człowiek informuje o swoim stanie
+  -o portfelu
+  -o bramce
+  -wrzuca monety
+  -próbuje przejść
